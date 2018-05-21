@@ -6,11 +6,8 @@ The parameters of cache size, correlation, content universe size can be changed 
 ## papers
 
 1. Analyzing Opportunisitic Request Routing in Wireless Cache Networks (ICC 2018) [link]
-	+ code present in: 1_Rayleigh_Fading_Correlated_Fading_Model, 2_Rayleigh_Fading_Uncorrelated_Fading_Model
-
+	+ code present in: 1_Rayleigh_Fading_Model
 ## folder structure
 
 
-1_Rayleigh_Fading_Correlated_Fading_Model
-
-2_Rayleigh_Fading_Uncorrelated_Fading_Model
+1_Rayleigh_Fading_Model
